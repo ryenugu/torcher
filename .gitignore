@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+myenv/
+pytorch-demo/MNIST/
+
+
 # Distribution / packaging
 .Python
 build/
